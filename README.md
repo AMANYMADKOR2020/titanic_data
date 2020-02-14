@@ -1,2 +1,2 @@
 # titanic_data
-Titanic dataset preprocessing 
+Titanic dataset preprocessing and cleaning dataset 
